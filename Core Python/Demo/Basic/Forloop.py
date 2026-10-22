@@ -1,0 +1,8 @@
+#syntax
+#for variable in iterable:
+      #Block of code
+
+#EX:
+li=[10,20,30,40,50]
+for ele in li:
+    print(ele)
