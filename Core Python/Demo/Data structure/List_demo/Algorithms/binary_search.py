@@ -22,4 +22,4 @@ res=binarysearch(li,ele)
 if(res!=-1):
     print(f"{ele} is present at index {res}.")
 else:
-    print(f"{ele} is not presnet in list.")
+    print(f"{ele} is not present in list.")
